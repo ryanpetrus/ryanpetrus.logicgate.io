@@ -1,7 +1,7 @@
 //
 // SimcirJS - altfulladder
 //
-// Copyright (c) 2017 Kazuhiko Arase
+// Copyright (c) Ryan Petrus Ngau
 //
 // URL: http://www.d-project.com/
 //
