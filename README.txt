@@ -1,6 +1,6 @@
 SimcirJS
 
-Copyright (c) 2014 Kazuhiko Arase
+Copyright (c) 2024 Ryan Petrus Ngau
 
 URL: http://www.d-project.com/
 
